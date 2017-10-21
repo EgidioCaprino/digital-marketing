@@ -1,2 +1,2 @@
-# digital-marketing
-Conceptual map the Digital Marketing course from University of Illinois
+# Digital Marketing
+These are the conceptual mind maps I created while following this course on Coursera.
